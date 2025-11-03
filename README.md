@@ -41,14 +41,14 @@ I spent a lot of time refining every detail — from smooth button flashes to ha
 ---
 
 ## 🚀 Play the Game  
-👉 **Live Demo:** [Add your deployed link here]  
-👉 **GitHub Repository:** [Add your repo link here]
+👉 **Live Demo:** https://bhaumikdhore.github.io/Simon-Says-Game/
+👉 **GitHub Repository:** (https://github.com/bhaumikdhore/Simon-Says-Game)
 
 ---
 
 ### 📌 Author  
 Developed by **[Bhaumik Dhore]**  
-Let’s connect on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/bhaumik-dhore/))  
+Let’s connect on [your-linkedin-url](https://www.linkedin.com/in/bhaumik-dhore/)
 
 ---
 
