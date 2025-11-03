@@ -42,6 +42,7 @@ I spent a lot of time refining every detail — from smooth button flashes to ha
 
 ## 🚀 Play the Game  
 👉 **Live Demo:** https://bhaumikdhore.github.io/Simon-Says-Game/
+
 👉 **GitHub Repository:** (https://github.com/bhaumikdhore/Simon-Says-Game)
 
 ---
