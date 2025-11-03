@@ -27,7 +27,7 @@ I spent a lot of time refining every detail — from smooth button flashes to ha
 ## ⚙️ Technologies Used  
 - **HTML5** – Structure of the game  
 - **CSS3** – Styling and animations  
-- **JavaScript (Vanilla)** – Game logic and interactivity  
+- **JavaScript** – Game logic and interactivity  
 
 ---
 
